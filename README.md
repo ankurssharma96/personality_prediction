@@ -3,7 +3,8 @@
 **This project aims to implement various concepts of ML and NLP learnt so far and the basic understanding of their working. It helps to create a model to predict personality from a text and to apply it over kaggle comments. Various models have been used and their corresponding accuracies have been calculated. The best chosen model is then used to know what are the Kaggle community most common personalities.**
 
 **The data is taken from (MBTI) Myers-Briggs Personality Type Dataset
-The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types across 4 axis:**
+The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types across 4 axis:
+https://www.kaggle.com/datasnaek/mbti-type**
 
 **Introversion (I) – Extroversion (E)
 Intuition (N) – Sensing (S)
